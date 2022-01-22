@@ -11,6 +11,5 @@ import { AppComponent } from './app.component';
 export class AppModule {
 }
 
-debugger
 platformBrowserDynamic().bootstrapModule(AppModule);
 

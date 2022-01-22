@@ -27,14 +27,14 @@
       'main':       'app/main',
 
       // angular bundles
-      '@angular/core': 'npm:@angular/core@2.2.4/bundles/core.umd.js',
-      '@angular/common': 'npm:@angular/common@2.2.4/bundles/common.umd.js',
-      '@angular/compiler': 'npm:@angular/compiler@2.2.4/bundles/compiler.umd.js',
-      '@angular/platform-browser': 'npm:@angular/platform-browser@2.2.4/bundles/platform-browser.umd.js',
-      '@angular/platform-browser-dynamic': 'npm:@angular/platform-browser-dynamic@2.2.4/bundles/platform-browser-dynamic.umd.js',
-      '@angular/http': 'npm:@angular@2.2.4/http/bundles/http.umd.js',
-      '@angular/router': 'npm:@angular/router@2.2.4/bundles/router.umd.js',
-      '@angular/forms': 'npm:@angular/forms@2.2.4/bundles/forms.umd.js',
+      '@angular/core': 'npm:@angular/core@2.0.0/bundles/core.umd.js',
+      '@angular/common': 'npm:@angular/common@2.0.0/bundles/common.umd.js',
+      '@angular/compiler': 'npm:@angular/compiler@2.0.0/bundles/compiler.umd.js',
+      '@angular/platform-browser': 'npm:@angular/platform-browser@2.0.0/bundles/platform-browser.umd.js',
+      '@angular/platform-browser-dynamic': 'npm:@angular/platform-browser-dynamic@2.0.0/bundles/platform-browser-dynamic.umd.js',
+      '@angular/http': 'npm:@angular@2.0.0/http/bundles/http.umd.js',
+      '@angular/router': 'npm:@angular/router@2.0.0/bundles/router.umd.js',
+      '@angular/forms': 'npm:@angular/forms@2.0.0/bundles/forms.umd.js',
 
       // other libraries
       'rxjs':                      'npm:rxjs@5',

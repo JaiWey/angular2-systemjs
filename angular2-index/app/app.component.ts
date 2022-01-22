@@ -8,6 +8,9 @@ import { Component } from '@angular/core';
   `,
 })
 export class AppComponent  { 
+  constructor() {
+    debugger
+  }
   name = 'Angular'; 
   change() {
     this.name += '1'
