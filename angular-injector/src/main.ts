@@ -5,11 +5,16 @@ var jasmineEnv = jasmine.getEnv();
 debugger
 @Injectable()
 class Engine {
+  constructor() {
+    debugger
+  }
 }
 
 @Injectable()
 class Car {
- constructor(public engine:Engine) {}
+ constructor(public engine:Engine) {
+   debugger
+ }
 }
 
 describe("Injector.instantiateResolved", () => {
